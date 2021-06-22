@@ -16,6 +16,10 @@
 	<properties>
 		<java.version>11</java.version>
 		<kotlin.version>1.5.10</kotlin.version>
+
+		<sonar.projectKey>reiniertimmer_spring-boot-demo</sonar.projectKey>
+		<sonar.organization>reiniertimmer</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
